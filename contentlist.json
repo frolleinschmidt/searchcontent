@@ -1,0 +1,22 @@
+{
+    "producer": "frolleinschmidt",
+    "updated": "2024-06-01",
+    "urls": {
+       "https://www.stilldrinking.org/programming-sucks": {
+        "tags": ["programming", "bitter", "sotrue"]
+        "lang": "en"
+      },
+      "https://docs.rs/clap/latest/clap/_tutorial": {
+        "tags": ["rust", "cli tooling", "cli libraries"],
+        "lang": "en"
+      },
+      "https://click.palletsprojects.com": {
+        "tags": ["python", "cli tooling", "cli libraries"].
+        "lang": "en"
+     },
+     "https://www.brooot.de/weizenbrote/tartine-italienne/": {
+        "tags": ["Brot", "Rezepte"],
+        "lang": "de"
+    }  
+  } 
+}
